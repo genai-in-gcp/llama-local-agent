@@ -13,7 +13,10 @@ llama-index-readers-file==0.4.3
 # Langchain
 langchain-ollama==0.2.2
 langgraph==0.2.62 
-0.3.14
 
 # Search tool
-langchain-community==duckduckgo-search==7.2.1
+langchain-community==0.3.14
+
+
+# Guardrails
+guardrails-ai
