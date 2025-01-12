@@ -27,3 +27,15 @@ Follow these steps to set up a Python virtual environment:
     ```sh
     pip install -r requirements.txt
     ```
+
+5.  **Install Ollama:**
+
+Download and install Ollama from GitHub to run Llama models locally
+
+6. **Pull Necessary Model:**
+
+Once Ollama is installed, pull the necessary model (Llama 3.2 3B):
+    ```sh
+    ollama pull llama3.2
+    ```
+Note: you will find model blod in ~/.ollama/models
